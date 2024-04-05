@@ -13,7 +13,6 @@
 2024/03/26：请需要算力支持的队伍填写[注册信息收集表](https://docs.qq.com/form/page/DQU5LSmRXZGNTd0VW)，详细赞助信息见[评测官网](http://cips-cl.org/static/CCL2024/cclEval/taskEvaluation/index.html)
 
 2024/04/05：评测任务的无答案测试集已发布，详见 datasets 文件仓。
-
             各参赛队伍需在4月25日24:00之前提交结果集，具体要求及提交平台见 <a href="#六结果提交">六、结果提交</a>。
 
 ### 目录
