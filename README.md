@@ -21,6 +21,8 @@
 
 2024/05/10：成绩和排行榜已公布，详见文件仓。
 
+2024/05/11:技术报告（含overview）英文和中文模板都按照CCL2024模板（论文模板下载链接：http://cips-cl.org/static/CCL2024/downloads/ccl2024_template.rar），内容可以参考SemEval和CoNLL。
+
 ### 目录
  <a href="#一任务内容">一、任务内容</a>
 
